@@ -1,0 +1,20 @@
+{
+  "name": "cable_car_elements",
+  "version": "0.1.0",
+  "description": "Advanced page actions using Ruby, HTML-over-the-wire, custom elements, and CableReady",
+  "main": "javascript/custom_elements.js",
+  "module": "javascript/custom_elements.js",
+  "exports": {
+    ".": "./javascript/custom_elements.js"
+  },
+  "repository": "https://github.com/whitefusionhq/cable_car_elements",
+  "author": "jared@whitefusion.studio",
+  "license": "MIT",
+  "private": false,
+  "files": [
+    "javascript"
+  ],
+  "dependencies": {
+    "cable_ready": "^5.0.0-pre2"
+  }
+}

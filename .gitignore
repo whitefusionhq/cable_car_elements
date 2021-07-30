@@ -1,0 +1,26 @@
+/.bundle/
+/.yardoc
+/_yardoc/
+/coverage/
+/doc/
+/pkg/
+/spec/reports/
+/tmp/
+
+Gemfile.lock
+.bundle
+.ruby-version
+
+# Node
+node_modules
+.npm
+.node_repl_history
+
+# Yarn
+yarn-error.log
+yarn-debug.log*
+.pnp/
+.pnp.js
+
+# Yarn Integrity file
+.yarn-integrity
